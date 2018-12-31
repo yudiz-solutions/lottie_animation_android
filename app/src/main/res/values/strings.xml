@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LottieAnimationDemos</string>
+    <string name="start_cycling">Click anywhere below to start an Stop Cycling.</string>
+</resources>
